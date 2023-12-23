@@ -26531,15 +26531,15 @@ const pM = ({
     shortcuts: {
       youtube: {
         title: "YouTube",
-        text: "Videítos sobre desarrollo web, principalmente de HTML, CSS, JavaScript y React. Vas a encontrar tips, truquitos, tutoriales y varios cursos totalmente gratuitos.",
+        text: "Videos sobre desarrollo web, principalmente de HTML, CSS, JavaScript y React. Vas a encontrar tips, trucos, tutoriales y varios cursos totalmente gratuitos.",
       },
       discord: {
         title: "Discord",
-        text: "Unite a mi Comunidad de Discord, un espacio ideal para charlar con personas que están comenzando o tienen ganas de compartir información sobre el mundo del desarrollo web.",
+        text: "Unete a mi Comunidad de Discord, un espacio ideal para charlar con personas que están comenzando o tienen ganas de compartir información sobre el mundo del desarrollo web.",
       },
       donations: {
         title: "Donaciones",
-        text: "Si querés, podés apoyar mi contenido haciendo una donación mensual o único. Esto me ayuda a seguir creando más y mejores videos. ❤️",
+        text: "Si quieres, puedes apoyar mi contenido haciendo una donación mensual o única. Esto me ayuda a seguir creando más y mejores videos. ❤️",
       },
       motivacion: {
         title: "Motivación",
