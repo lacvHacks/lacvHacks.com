@@ -19755,7 +19755,7 @@ const Z3 = () => {
             }),
             S.jsxs("a", {
               target: "_blank",
-              href: "https://discord.gg/",
+              href: "https://discord.gg/BHe5Qmr",
               className: "shortcut shortcut-discord",
               ref: (r) => {
                 n.current[1] = r;
