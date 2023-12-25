@@ -16612,7 +16612,7 @@ const C3 = hg,
               children: S.jsx(m3, {}),
             }),
             S.jsx("a", {
-              href: "https://discord.gg/",
+              href: "https://discord.gg/BHe5Qmr",
               children: S.jsx(Vb, {}),
             }),
             S.jsx("a", {
